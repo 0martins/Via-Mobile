@@ -13,7 +13,7 @@ These are the results:
   <tr>
     <td align="center">
       <a href="#">
-        <img src="./98136615.jpg" width="200px;" alt="Este sou eu:  Rafael Martins no GitHub"/><br>
+        <img src="./98136615.jpg" width="100px;" alt="Este sou eu:  Rafael Martins no GitHub"/><br>
         <sub>
           <b>Rafael Martins</b>
         </sub>
